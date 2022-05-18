@@ -25,11 +25,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#DF2428"
-      }, 
+      },
       "package": "com.sociotorcedor.vilanovafc"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
